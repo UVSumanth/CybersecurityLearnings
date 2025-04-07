@@ -198,4 +198,3 @@ While this document is based on NIST SP 800-61r2 (now replaced by Rev. 3), it pr
 
 ## 📎 Appendix
 - [NIST SP 800-61r3 - Latest Version (April 2025)](https://doi.org/10.6028/NIST.SP.800-61r3)
-- [Incident Response Checklist Template](https://www.sans.org/media/score/checklists/Incident-Handler-Checklist.pdf)
