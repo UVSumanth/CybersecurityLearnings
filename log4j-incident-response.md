@@ -1,5 +1,3 @@
-# Log4j Incident Response One-Pager
-
 # Log4j Incident Response – One-Pager  
 **Role:** Security Operations Analyst  
 **Duration:** Dec 2021 – Jan 2022  
