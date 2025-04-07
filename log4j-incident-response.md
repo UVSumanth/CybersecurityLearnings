@@ -61,4 +61,3 @@ I worked on the **Security Operations Team** at TCS supporting AMD’s infrastru
 
 ## 📘 Outcome & Learning
 Supported large-scale incident response for a global zero-day exploit involving multiple threat vectors, including suspected **APT activity**. Gained hands-on experience with **real-time detection, cross-functional security collaboration**, and **tool-based mitigation** under pressure.
-"""
