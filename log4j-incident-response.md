@@ -1,4 +1,4 @@
-# Markdown content for the Log4j Incident Response One-Pager
+# Log4j Incident Response One-Pager
 
 # Log4j Incident Response – One-Pager  
 **Role:** Security Operations Analyst  
