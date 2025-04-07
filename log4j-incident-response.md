@@ -49,7 +49,7 @@ I worked on the **Security Operations Team** at TCS supporting AMD’s infrastru
 
 ---
 
-## 🧰 Remediation Actions
+## 🧰 Remediation Actions by L2/L3
 - Upgraded Log4j to version **2.16+ / 2.17+**  
 - Disabled JNDI lookups: `log4j2.formatMsgNoLookups=true`  
 - Applied **WAF rules** and SIEM detection signatures for `${jndi:` patterns  
