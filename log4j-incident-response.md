@@ -1,7 +1,5 @@
-from pathlib import Path
-
 # Markdown content for the Log4j Incident Response One-Pager
-markdown_content = """
+
 # Log4j Incident Response – One-Pager  
 **Role:** Security Operations Analyst  
 **Duration:** Dec 2021 – Jan 2022  
@@ -62,9 +60,3 @@ I worked on the **Security Operations Team** at TCS supporting AMD’s infrastru
 ## 📘 Outcome & Learning
 Supported large-scale incident response for a global zero-day exploit involving multiple threat vectors, including suspected **APT activity**. Gained hands-on experience with **real-time detection, cross-functional security collaboration**, and **tool-based mitigation** under pressure.
 """
-
-# Save the markdown file
-output_path = Path("/mnt/data/log4j-incident-response.md")
-output_path.write_text(markdown_content.strip())
-
-output_path.name
