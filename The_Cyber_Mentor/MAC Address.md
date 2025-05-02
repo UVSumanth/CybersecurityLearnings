@@ -32,7 +32,7 @@ As an ethical hacker, understanding MAC (Media Access Control) addresses is cruc
 > - OUI: `FC:FB:FB` → Belongs to Apple
 > - Device: A specific Apple device
 
-![Example of MAC Address](The_Cyber_Mentor/Images/MAC.png)
+![Example of MAC Address](Images/MAC.png)
 
 
 
