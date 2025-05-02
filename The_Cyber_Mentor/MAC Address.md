@@ -35,6 +35,7 @@ As an ethical hacker, understanding MAC (Media Access Control) addresses is cruc
 ![Example of MAC Address](The_Cyber_Mentor/Images/MAC.png)
 
 
+
 You can look up manufacturers using tools or sites like `macvendors.com`.
 
 ---
