@@ -31,7 +31,7 @@ As an ethical hacker, understanding MAC (Media Access Control) addresses is cruc
 > 🔍 Example: `FC:FB:FB:01:FA:21`
 > - OUI: `FC:FB:FB` → Belongs to Apple
 > - Device: A specific Apple device
-[Example of MAC Address]C:/Users/uppal/OneDrive/Desktop/My Work/MAC.png
+`[Example of MAC Address](The_Cyber_Mentor/Images/MAC.png)`
 
 You can look up manufacturers using tools or sites like `macvendors.com`.
 
