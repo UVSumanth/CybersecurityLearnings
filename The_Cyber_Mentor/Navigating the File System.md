@@ -118,7 +118,7 @@ It breaks down and explains **each part of the command** — extremely helpful w
 
 ---
 
-## 🧠 Concepts to Study Later
+## 🧠 More Concepts to review on commands on Linux file systems 
 
 - Absolute vs Relative paths
 - Wildcards (`*`, `?`) and file globbing
